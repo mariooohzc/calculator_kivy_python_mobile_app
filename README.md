@@ -4,8 +4,8 @@ Calculator mobile app coded in Python using the Kivy library
 ## Converted to APK file
 The APK file is created using github and buildozer.spec file
 
-## miscellaneous
-The basic addition, subtraction, multiplication, division, remainder (modulo) functions are defined in this project except for the sin, cos and tan function which are imported from the math library.
+# Functions
+The basic addition, subtraction, multiplication, division, remainder (modulo) functions are defined in this project and can be seen in the main.py file. However, the sin, cos and tan function are imported from the math library.
 
 # Demo
 
