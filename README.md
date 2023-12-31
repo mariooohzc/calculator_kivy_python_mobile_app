@@ -9,5 +9,8 @@ The basic addition, subtraction, multiplication, division, remainder (modulo) fu
 
 # Demo
 
+https://github.com/mariooohzc/calculator_kivy_python_mobile_app/assets/155281083/1f52a7f3-c0cb-4ffd-b20c-4cd54f4ceb89
 
-https://github.com/mariooohzc/calculator_kivy_app/assets/155281083/63bb2ddf-723f-41a1-954b-3899a8060515
+
+
+
