@@ -5,7 +5,7 @@ Calculator mobile app coded in Python using the Kivy library
 The APK file is created using github and buildozer.spec file
 
 # Functions
-The basic addition, subtraction, multiplication, division, remainder (modulo) functions are defined in this project and can be seen in the main.py file. However, the sin, cos and tan function are imported from the math library.
+The basic addition, subtraction, multiplication, division, remainder (modulo) functions are defined in this project (as required by the problem statement) and can be seen in the main.py file. However, the sin, cos and tan function are imported from the math library.
 
 # Demo
 The following is the screen recording of the calculator mobile app on an Android phone.
